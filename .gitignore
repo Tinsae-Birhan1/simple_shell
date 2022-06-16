@@ -1,4 +1,13 @@
-*.out
-test.c
-betty_report
 hsh
+*.c.swp
+shell
+*.dSYM
+.DS_Store
+*.o
+*.dSYM
+.vscode
+*printf*
+.gitignore
+
+
+
